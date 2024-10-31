@@ -1,0 +1,4 @@
+git add ..... (add file)
+git status (show status that commited)
+git log (show message check add empty file)
+git commit -m ''  ()
